@@ -1,2 +1,4 @@
  practisin git today 
  learn b m own to create a new repo in remote and did pull and push request in remote repo
+added branch in git hub
+and now going to pull the codde to master branch
